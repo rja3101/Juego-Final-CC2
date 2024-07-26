@@ -1,0 +1,11 @@
+Controls
+
+WASD / Arrows: Move
+
+Right Mouse Click: Attack
+
+N/M: Hide/Display Mini Map
+
+1:  Use ability 1
+2:  Use ability 2
+3:  Use ability 3
